@@ -16,7 +16,7 @@ Research Interesting
 ======
 I have a great interest in conducting experiments and simulations to investigate the mechanical characteristics of composite materials and to develope dependable predictive numerical models.  
 
-Additionally,Natural materials, such as nacre, exemplify the remarkable combination of strength, toughness, and low density. I am also enthusiastic about employing mechanical approaches to unravel the underlying mechanisms responsible for the exceptional mechanical properties observed in biomaterials and bio-inspired materials.
+Additionally,Natural materials, such as nacre, exemplify the remarkable combination of strength, toughness, and low density. I am also interested in employing mechanical approaches to unravel the underlying mechanisms responsible for the exceptional mechanical properties of biomaterials and bio-inspired materials.
 
 Honors and Awards
 ======
